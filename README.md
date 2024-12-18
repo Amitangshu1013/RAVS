@@ -17,7 +17,7 @@
     
 -   [Robustness library](https://github.com/MadryLab/robustness) – Script to test Adversarially trained ResNet50 isn’t provided but will be provided if required. The weights used are on this [link](https://www.dropbox.com/s/yxn15a9zklz3s8q/imagenet_linf_8.pt?dl=0). ​
 
-    |Model| Reproduced - No Attack (eps=0) |
+|Model| Reproduced - No Attack (eps=0) |
 |-|--|
 | ResNet34 |73.30  |
 | ResNet50 |76.15  |
